@@ -1,9 +1,3 @@
-/* Anna Del Negro
- * Dr. Andrew Steinberg
- * COP3503 Spring 2024
- * Programming Assignment 4
- */
-
 public class HopStepGame {
     /* recursive approach: method #1 */
     public int minCost(int[] costArray, int totalSquares) {
